@@ -3,6 +3,7 @@ Entrega de proyecto final de Algoritmos computacionales donde se adjuntan los no
 ## Título
 Clasificación de señales electrocrdiográficas con python
 ### Realizado por:
-Díaz Cuevas Bruno 
-García Espinosa David Alexis
-De la Torre Sánchez Mosses Arath
+
+Díaz Cuevas Bruno,
+\\García Espinosa David Alexis,
+\\De la Torre Sánchez Mosses Arath

@@ -1,4 +1,4 @@
-# Proyecto Final Algoritmos 20192
+# Proyecto Final Algoritmos 2019-2
 > Facultad de Ciencias UNAM 
 
 > Física Biomédica 4ta Generación

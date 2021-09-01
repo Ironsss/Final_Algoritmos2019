@@ -2,7 +2,9 @@
 > Facultad de Ciencias UNAM 
 
 > Física Biomédica 4ta Generación
->
+
+> Muestra de mis primeros años programando (**objetivo:** visualizar mi crecimiento)
+
 Entrega de proyecto final de Algoritmos computacionales, se adjuntan los notebooks donde se ralizo el trabajo asi como el reporte realizado.
 
 ## Título
